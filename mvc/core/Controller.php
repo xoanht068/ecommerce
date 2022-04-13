@@ -1,5 +1,10 @@
 <?php
 class Controller{
+
+	public function __construct() {
+		require_once "./mvc/core/Util/AppUtil.php";
+	}
+
     public function model($model){
         require_once "./mvc/models/".$model.".php";
         return new $model;

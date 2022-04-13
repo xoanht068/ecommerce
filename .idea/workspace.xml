@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2308a398-3247-402f-b8ef-d3843cbae51a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27KCCXnjLqKCFLKFMQxpK2jBDKD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mvc/views/Frontend/pages" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\PHP\ecommerce\mvc\views\Frontend\pages" />
+      <recent name="D:\Project\PHP\ecommerce\mvc\models" />
+      <recent name="D:\Project\PHP\ecommerce\mvc\views" />
+      <recent name="D:\Project\PHP\ecommerce\mvc\controllers" />
+    </key>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\nguye\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2308a398-3247-402f-b8ef-d3843cbae51a" name="Default Changelist" comment="" />
+      <created>1649059263184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649059263184</updated>
+      <workItem from="1649059264471" duration="19327000" />
+      <workItem from="1649123153201" duration="41644000" />
+      <workItem from="1649217895947" duration="1362000" />
+      <workItem from="1649233673806" duration="171000" />
+      <workItem from="1649237068950" duration="1807000" />
+      <workItem from="1649684217205" duration="156000" />
+      <workItem from="1649733465524" duration="5311000" />
+      <workItem from="1649738940064" duration="44227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="278" key="#Notifications" timestamp="1649066937672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="653" y="278" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1649066937672" />
+    <state x="225" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1649763859376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1649763859376" />
+    <state x="549" y="169" key="FileChooserDialogImpl" timestamp="1649819310937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1649819310937" />
+    <state x="600" y="338" key="NewPhpFileDialog" timestamp="1649840339788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="600" y="338" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1649840339788" />
+    <state x="289" y="101" width="1069" height="809" key="dock-window-1" timestamp="1649737462150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="289" y="101" width="1069" height="809" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1649737462150" />
+    <state x="512" y="151" width="597" height="516" key="find.popup" timestamp="1649846228072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="151" width="597" height="516" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1649846228072" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1649852796190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1649852796190" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1649756110391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1649756110391" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mvc/core/Constant.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

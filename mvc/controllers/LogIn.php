@@ -1,15 +1,33 @@
 <?php
 class LogIn extends Controller{
     public function default(){
-        $this->view('viewLogIn');
+    	$status = 1;
+    	if (isset($_REQUEST["status"])) {
+		    $status = $_REQUEST["status"];
+	    }
+        $this->view('viewLogIn', [
+        	"status" => $status
+        ]);
     }
     public function checkLogIn(){
-        $userMo = $this->model('UserModel');
-        $result = $userMo->checkUser($_POST);
-        if ($result) {
-            $this->viewFrontend(["page" => "home"]);
-            
-        }
+    	if (!isset($_POST['username']) || !isset($_POST['password'])) {
+		    header("Location:" . constant("HOST") . "/logIn?status=2");
+	    } elseif (AppUtil::isInvalidString($_POST['username']) && AppUtil::isInvalidString($_POST['password'])){
+		    $userMo = $this->model('UserModel');
+		    if ($userMo->checkUser($_POST)) {
+			    $_SESSION['username'] = $_POST['username'];
+			    $_SESSION['cart'] = [];
+			    header("Location:" . constant("HOST"));
+		    }else {
+			    header("Location:" . constant("HOST") . "/logIn?status=2");
+		    }
+	    } else {
+		    header("Location:" . constant("HOST") . "/logIn?status=2");
+	    }
+    }
+    public function logOut(){
+	    unset($_SESSION['username']);
+	    header("Location:" . constant("HOST") . "/logIn");
     }
 }
 ?>
