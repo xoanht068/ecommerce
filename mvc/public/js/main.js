@@ -18,7 +18,7 @@ jQuery(document).ready(function ($) {
             $("#myModal").modal()
         } else {
             let data = $("#order").serialize();
-            let url = 'http://localhost/ecommerce/Order/ordering';
+            let url = window.location.origin + '/Order/ordering';
             $.ajax({
                 url: url,
                 method: 'post',

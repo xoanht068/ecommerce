@@ -11,9 +11,8 @@ class Shop extends Controller{
 				"orderBy" => $order
 		    ]);
 	    } else {
-		    header("Location:" . constant("HOST") . "/logIn");
+		    header("Location:" . constant("HOST") . "/login");
 	    }
-
     }
     public function detail($id){
     	$userMo = $this->model('ProductModel');

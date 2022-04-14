@@ -36,7 +36,7 @@
 					]);
 				}
 			} else {
-				header("Location:" . constant("HOST") . "/logIn");
+				header("Location:" . constant("HOST") . "/login");
 			}
 		}
 
@@ -59,7 +59,7 @@
 				}
 
 			} else {
-				header("Location:" . constant("HOST") . "/logIn");
+				header("Location:" . constant("HOST") . "/login");
 			}
 		}
 	}

@@ -14,7 +14,7 @@
 			    Register success! Please login!
 		    </div>
 	    <?php } ?>
-        <form name="logIn" action="<?php echo constant("HOST")?>/LogIn/checkLogIn" method="POST" id="login-form">
+        <form action="<?php echo constant("HOST")?>/login/checkLogin" method="POST" id="login-form">
             <div class="form-group">
                 <label for="username">Username:</label>
                 <input type="text" class="form-control" id="username" placeholder="Enter Username" name="username">

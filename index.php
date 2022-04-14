@@ -1,6 +1,6 @@
 <?php
 session_start();
-define('HOST',"http://".$_SERVER['HTTP_HOST'] . "/ecommerce");
+define('HOST', "https://" . $_SERVER['HTTP_HOST']);
 require_once "./mvc/bridge.php";
 $myApp = new App();
 ?>
